@@ -1,0 +1,40 @@
+title: "Shadaab Ghani"
+name: "Shadaab Ghani"
+description: "AI Engineer and PhD Researcher"
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name   : "Shadaab Ghani"
+  avatar : "profile.jpeg"   # optional
+  bio    : "AI Engineer and PhD Researcher working on trustworthy LLM systems, RAG, hallucination detection, and agentic AI."
+  location : "Stockholm, Sweden"
+  email : "shadaab@kth.se"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/shadaabghani1"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"
+    - label: "ResearchGate"
+      icon: "fas fa-book"
+      url: "https://www.researchgate.net/profile/Shadaab-Ghani/research"
+
+minimal_mistakes_skin: "default"
+search: false
+markdown: kramdown
+permalink: /:categories/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
