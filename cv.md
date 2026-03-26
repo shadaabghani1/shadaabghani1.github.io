@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-You can download my CV [here](/assets/files/Shadaab_Ghani_CV.pdf).
+You can download my CV [here](Resume_Shadaab_2026.pdf).
 
 ## Education
 - **KTH Royal Institute of Technology** — PhD in Computer Science, 2024–Present
