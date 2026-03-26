@@ -11,7 +11,7 @@ plugins:
 
 author:
   name: "Shadaab Ghani"
-  avatar: "/assets/images/profile.jpeg"
+  avatar: "profile.jpeg"
   bio: "AI Engineer and PhD Researcher working on trustworthy LLM systems, RAG, hallucination detection, and agentic AI."
   location: "Stockholm, Sweden"
   email: "shadaab@kth.se"
